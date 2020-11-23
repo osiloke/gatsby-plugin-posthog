@@ -19,7 +19,7 @@ or
 module.exports = {
   plugins: [
     {
-      resolve: `gatsby-plugin-posthog-analytics`,
+      resolve: `gatsby-plugin-posthog`,
       options: {
         // Specify the API key for your Posthog Project (required)
         apiKey: "YOUR_POSTHOG_ANALYTICS_API_KEY",
