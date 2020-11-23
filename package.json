@@ -14,11 +14,11 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.8.7",
-    "@testing-library/react": "^9.5.0",
-    "babel-preset-gatsby-package": "^0.3.1",
-    "cross-env": "^5.2.1",
+    "@testing-library/react": "^11.2.2",
+    "babel-preset-gatsby-package": "^0.7.0",
+    "cross-env": "^7.0.2",
     "gatsby": "^2.20.29",
-    "react": "^16.13.1"
+    "react": "^17.0.1"
   },
   "peerDependencies": {
     "gatsby": "^2.0.0",
