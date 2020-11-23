@@ -1,16 +1,16 @@
-# gatsby-plugin-posthog-analytics
+# gatsby-plugin-posthog
 
-![npm](https://img.shields.io/npm/v/gatsby-plugin-posthog-analytics?style=plastic)
+![npm](https://img.shields.io/npm/v/gatsby-plugin-posthog?style=plastic)
 
 A simple gatsby plugin to add [posthog](https://posthog.com/) analytics to your site. Automatically tracks all the pageviews and clicks.
 
 ## Install
 
-`yarn add gatsby-plugin-posthog-analytics`
+`yarn add gatsby-plugin-posthog`
 
 or
 
-`npm install --save gatsby-plugin-posthog-analytics`
+`npm install --save gatsby-plugin-posthog`
 
 ## How to use
 

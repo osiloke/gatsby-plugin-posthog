@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-plugin-posthog-analytics",
-  "version": "0.0.1",
-  "description": "A gatsby plugin to setup posthog analytics",
+  "name": "gatsby-plugin-posthog",
+  "version": "1.0.0",
+  "description": "Official gatsby plugin to setup posthog",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir . --ignore \"**/__tests__\"",
@@ -30,6 +30,6 @@
     "gatsby-plugin",
     "posthog-analytics"
   ],
-  "author": "Ritesh Kadmawala<ritesh@vertexcover.io>",
+  "author": "macobo",
   "license": "MIT"
 }
