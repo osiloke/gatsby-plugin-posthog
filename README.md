@@ -29,6 +29,10 @@ module.exports = {
         head: true,
         // Enable posthog analytics tracking during development (optional, default: false)
         isEnabledDevMode: true
+        // Pass custom variables to posthog.init() (optional)
+        initOptions: {
+          // ...
+        }
       },
     },
   ],
