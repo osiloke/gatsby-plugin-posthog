@@ -13,7 +13,7 @@ export const onRenderBody = (
   const options = Object.assign({}, defaultOptions, pluginOptions);
   const isEnabled = process.env.NODE_ENV === 'production' || options.isEnabledDevMode;
   if (!isEnabled) {
-    console.log("Posthog Analytics not enabled");
+    console.log("PostHog Analytics not enabled");
     return null;
   }
 
